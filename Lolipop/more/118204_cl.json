@@ -1,0 +1,4231 @@
+{
+    "cargoSpace": {
+        "loading_size": {
+            "width": 1.25,
+            "length": 0.85,
+            "height": 2.1
+        },
+        "position": [
+            0.425,
+            1.05,
+            0.625
+        ],
+        "type": "pallet"
+    },
+    "cargos": [
+        {
+            "calculated_size": {
+                "height": 0.248,
+                "length": 0.24,
+                "width": 0.31
+            },
+            "cargo_id": "2187107V3",
+            "id": 1,
+            "mas": "248",
+            "position": {
+                "x": 0.12,
+                "y": 0.124,
+                "z": 0.155
+            },
+            "size": {
+                "height": 0.248,
+                "length": 0.24,
+                "width": 0.31
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.295,
+                "length": 0.21,
+                "width": 0.38
+            },
+            "cargo_id": "760120J1",
+            "id": 2,
+            "mas": "295",
+            "position": {
+                "x": 0.105,
+                "y": 0.1475,
+                "z": 0.5
+            },
+            "size": {
+                "height": 0.295,
+                "length": 0.21,
+                "width": 0.38
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.092,
+                "length": 0.27,
+                "width": 0.35
+            },
+            "cargo_id": "1503103E4",
+            "id": 3,
+            "mas": "92",
+            "position": {
+                "x": 0.135,
+                "y": 0.046,
+                "z": 0.865
+            },
+            "size": {
+                "height": 0.092,
+                "length": 0.27,
+                "width": 0.35
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.37,
+                "length": 0.28,
+                "width": 0.128
+            },
+            "cargo_id": "459177I2",
+            "id": 4,
+            "mas": "128",
+            "position": {
+                "x": 0.14,
+                "y": 0.185,
+                "z": 1.104
+            },
+            "size": {
+                "height": 0.37,
+                "length": 0.28,
+                "width": 0.128
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.129,
+                "length": 0.24,
+                "width": 0.32
+            },
+            "cargo_id": "000985L8",
+            "id": 5,
+            "mas": "129",
+            "position": {
+                "x": 0.36,
+                "y": 0.0645,
+                "z": 0.16
+            },
+            "size": {
+                "height": 0.129,
+                "length": 0.24,
+                "width": 0.32
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.24,
+                "length": 0.17,
+                "width": 0.082
+            },
+            "cargo_id": "281001010Z4",
+            "id": 6,
+            "mas": "82",
+            "position": {
+                "x": 0.085,
+                "y": 0.12,
+                "z": 1.209
+            },
+            "size": {
+                "height": 0.24,
+                "length": 0.17,
+                "width": 0.082
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.099,
+                "length": 0.17,
+                "width": 0.37
+            },
+            "cargo_id": "1004697D6",
+            "id": 7,
+            "mas": "99",
+            "position": {
+                "x": 0.325,
+                "y": 0.0495,
+                "z": 0.505
+            },
+            "size": {
+                "height": 0.099,
+                "length": 0.17,
+                "width": 0.37
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.086,
+                "length": 0.25,
+                "width": 0.35
+            },
+            "cargo_id": "101021040S4",
+            "id": 8,
+            "mas": "86",
+            "position": {
+                "x": 0.395,
+                "y": 0.043,
+                "z": 0.865
+            },
+            "size": {
+                "height": 0.086,
+                "length": 0.25,
+                "width": 0.35
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.162,
+                "length": 0.25,
+                "width": 0.17
+            },
+            "cargo_id": "088188I3",
+            "id": 9,
+            "mas": "162",
+            "position": {
+                "x": 0.405,
+                "y": 0.081,
+                "z": 1.125
+            },
+            "size": {
+                "height": 0.162,
+                "length": 0.25,
+                "width": 0.17
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.123,
+                "length": 0.14,
+                "width": 0.19
+            },
+            "cargo_id": "585126Q8",
+            "id": 10,
+            "mas": "123",
+            "position": {
+                "x": 0.55,
+                "y": 0.0615,
+                "z": 0.095
+            },
+            "size": {
+                "height": 0.123,
+                "length": 0.14,
+                "width": 0.19
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.162,
+                "length": 0.17,
+                "width": 0.26
+            },
+            "cargo_id": "92103110F4",
+            "id": 11,
+            "mas": "162",
+            "position": {
+                "x": 0.565,
+                "y": 0.081,
+                "z": 0.32
+            },
+            "size": {
+                "height": 0.162,
+                "length": 0.17,
+                "width": 0.26
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.39,
+                "length": 0.124,
+                "width": 0.14
+            },
+            "cargo_id": "1046275Y4",
+            "id": 12,
+            "mas": "124",
+            "position": {
+                "x": 0.542,
+                "y": 0.195,
+                "z": 0.52
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.124,
+                "width": 0.14
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.13,
+                "length": 0.16,
+                "width": 0.3
+            },
+            "cargo_id": "592098E7",
+            "id": 13,
+            "mas": "130",
+            "position": {
+                "x": 0.6,
+                "y": 0.065,
+                "z": 0.84
+            },
+            "size": {
+                "height": 0.13,
+                "length": 0.16,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.4,
+                "length": 0.3,
+                "width": 0.199
+            },
+            "cargo_id": "6710088O10",
+            "id": 14,
+            "mas": "199",
+            "position": {
+                "x": 0.68,
+                "y": 0.2,
+                "z": 1.1395
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.3,
+                "width": 0.199
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.42,
+                "length": 0.142,
+                "width": 0.3
+            },
+            "cargo_id": "7105574G9",
+            "id": 15,
+            "mas": "142",
+            "position": {
+                "x": 0.721,
+                "y": 0.21,
+                "z": 0.34
+            },
+            "size": {
+                "height": 0.42,
+                "length": 0.142,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.37,
+                "length": 0.19,
+                "width": 0.16
+            },
+            "cargo_id": "0044110G1",
+            "id": 16,
+            "mas": "190",
+            "position": {
+                "x": 0.745,
+                "y": 0.185,
+                "z": 0.57
+            },
+            "size": {
+                "height": 0.37,
+                "length": 0.19,
+                "width": 0.16
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.2,
+                "length": 0.12,
+                "width": 0.097
+            },
+            "cargo_id": "2273810O2",
+            "id": 17,
+            "mas": "97",
+            "position": {
+                "x": 0.54,
+                "y": 0.1,
+                "z": 0.6385
+            },
+            "size": {
+                "height": 0.2,
+                "length": 0.12,
+                "width": 0.097
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.34,
+                "length": 0.116,
+                "width": 0.24
+            },
+            "cargo_id": "1032610F10",
+            "id": 18,
+            "mas": "116",
+            "position": {
+                "x": 0.738,
+                "y": 0.17,
+                "z": 0.81
+            },
+            "size": {
+                "height": 0.34,
+                "length": 0.116,
+                "width": 0.24
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.2,
+                "length": 0.12,
+                "width": 0.1
+            },
+            "cargo_id": "0651049Q0",
+            "id": 19,
+            "mas": "100",
+            "position": {
+                "x": 0.74,
+                "y": 0.1,
+                "z": 0.98
+            },
+            "size": {
+                "height": 0.2,
+                "length": 0.12,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.1,
+                "length": 0.2,
+                "width": 0.12
+            },
+            "cargo_id": "521937T1",
+            "id": 20,
+            "mas": "100",
+            "position": {
+                "x": 0.72,
+                "y": 0.05,
+                "z": 0.06
+            },
+            "size": {
+                "height": 0.1,
+                "length": 0.2,
+                "width": 0.12
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.48,
+                "length": 0.16,
+                "width": 0.263
+            },
+            "cargo_id": "1000556D7",
+            "id": 21,
+            "mas": "263",
+            "position": {
+                "x": 0.35,
+                "y": 0.326,
+                "z": 0.8215
+            },
+            "size": {
+                "height": 0.48,
+                "length": 0.16,
+                "width": 0.263
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.39,
+                "length": 0.097,
+                "width": 0.28
+            },
+            "cargo_id": "58100110X3",
+            "id": 22,
+            "mas": "97",
+            "position": {
+                "x": 0.0485,
+                "y": 0.287,
+                "z": 0.83
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.097,
+                "width": 0.28
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.27,
+                "length": 0.1,
+                "width": 0.21
+            },
+            "cargo_id": "102310107P10",
+            "id": 23,
+            "mas": "100",
+            "position": {
+                "x": 0.147,
+                "y": 0.227,
+                "z": 0.795
+            },
+            "size": {
+                "height": 0.27,
+                "length": 0.1,
+                "width": 0.21
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.1,
+                "length": 0.21,
+                "width": 0.27
+            },
+            "cargo_id": "102310107P10",
+            "id": 24,
+            "mas": "100",
+            "position": {
+                "x": 0.345,
+                "y": 0.149,
+                "z": 0.455
+            },
+            "size": {
+                "height": 0.1,
+                "length": 0.21,
+                "width": 0.27
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.2,
+                "length": 0.099,
+                "width": 0.12
+            },
+            "cargo_id": "413718P2",
+            "id": 25,
+            "mas": "99",
+            "position": {
+                "x": 0.1465,
+                "y": 0.192,
+                "z": 0.96
+            },
+            "size": {
+                "height": 0.2,
+                "length": 0.099,
+                "width": 0.12
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.2,
+                "length": 0.12,
+                "width": 0.096
+            },
+            "cargo_id": "684536L1",
+            "id": 26,
+            "mas": "96",
+            "position": {
+                "x": 0.3,
+                "y": 0.199,
+                "z": 0.638
+            },
+            "size": {
+                "height": 0.2,
+                "length": 0.12,
+                "width": 0.096
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.103,
+                "length": 0.11,
+                "width": 0.19
+            },
+            "cargo_id": "267153E4",
+            "id": 27,
+            "mas": "103",
+            "position": {
+                "x": 0.675,
+                "y": 0.1515,
+                "z": 0.095
+            },
+            "size": {
+                "height": 0.103,
+                "length": 0.11,
+                "width": 0.19
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.153,
+                "length": 0.2,
+                "width": 0.3
+            },
+            "cargo_id": "4010895M2",
+            "id": 28,
+            "mas": "153",
+            "position": {
+                "x": 0.34,
+                "y": 0.2055,
+                "z": 0.15
+            },
+            "size": {
+                "height": 0.153,
+                "length": 0.2,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.21,
+                "length": 0.156,
+                "width": 0.16
+            },
+            "cargo_id": "116127S5",
+            "id": 29,
+            "mas": "156",
+            "position": {
+                "x": 0.518,
+                "y": 0.234,
+                "z": 0.08
+            },
+            "size": {
+                "height": 0.21,
+                "length": 0.156,
+                "width": 0.16
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.5,
+                "length": 0.201,
+                "width": 0.23
+            },
+            "cargo_id": "206725R10",
+            "id": 30,
+            "mas": "201",
+            "position": {
+                "x": 0.5305,
+                "y": 0.38,
+                "z": 0.805
+            },
+            "size": {
+                "height": 0.5,
+                "length": 0.201,
+                "width": 0.23
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.29,
+                "length": 0.206,
+                "width": 0.19
+            },
+            "cargo_id": "28103107G10",
+            "id": 31,
+            "mas": "206",
+            "position": {
+                "x": 0.383,
+                "y": 0.307,
+                "z": 1.135
+            },
+            "size": {
+                "height": 0.29,
+                "length": 0.206,
+                "width": 0.19
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.3,
+                "length": 0.155,
+                "width": 0.2
+            },
+            "cargo_id": "6863100M6",
+            "id": 32,
+            "mas": "155",
+            "position": {
+                "x": 0.3175,
+                "y": 0.349,
+                "z": 0.4
+            },
+            "size": {
+                "height": 0.3,
+                "length": 0.155,
+                "width": 0.2
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.2,
+                "length": 0.158,
+                "width": 0.16
+            },
+            "cargo_id": "728981E7",
+            "id": 33,
+            "mas": "158",
+            "position": {
+                "x": 0.519,
+                "y": 0.262,
+                "z": 0.24
+            },
+            "size": {
+                "height": 0.2,
+                "length": 0.158,
+                "width": 0.16
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.22,
+                "width": 0.148
+            },
+            "cargo_id": "9710619F1",
+            "id": 34,
+            "mas": "148",
+            "position": {
+                "x": 0.706,
+                "y": 0.343,
+                "z": 0.074
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.22,
+                "width": 0.148
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.32,
+                "length": 0.23,
+                "width": 0.17
+            },
+            "cargo_id": "655043J3",
+            "id": 35,
+            "mas": "170",
+            "position": {
+                "x": 0.355,
+                "y": 0.459,
+                "z": 0.585
+            },
+            "size": {
+                "height": 0.32,
+                "length": 0.23,
+                "width": 0.17
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.4,
+                "length": 0.167,
+                "width": 0.2
+            },
+            "cargo_id": "9810436I8",
+            "id": 36,
+            "mas": "167",
+            "position": {
+                "x": 0.7335,
+                "y": 0.54,
+                "z": 0.75
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.167,
+                "width": 0.2
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.39,
+                "length": 0.139,
+                "width": 0.3
+            },
+            "cargo_id": "624477G10",
+            "id": 37,
+            "mas": "139",
+            "position": {
+                "x": 0.1665,
+                "y": 0.557,
+                "z": 0.84
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.139,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.206,
+                "length": 0.21,
+                "width": 0.14
+            },
+            "cargo_id": "0110811Y3",
+            "id": 38,
+            "mas": "206",
+            "position": {
+                "x": 0.5,
+                "y": 0.465,
+                "z": 0.37
+            },
+            "size": {
+                "height": 0.206,
+                "length": 0.21,
+                "width": 0.14
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.206,
+                "length": 0.15,
+                "width": 0.21
+            },
+            "cargo_id": "373875O4",
+            "id": 39,
+            "mas": "206",
+            "position": {
+                "x": 0.172,
+                "y": 0.473,
+                "z": 1.095
+            },
+            "size": {
+                "height": 0.206,
+                "length": 0.15,
+                "width": 0.21
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.12,
+                "length": 0.19,
+                "width": 0.063
+            },
+            "cargo_id": "494248Q6",
+            "id": 40,
+            "mas": "63",
+            "position": {
+                "x": 0.365,
+                "y": 0.146,
+                "z": 0.9845
+            },
+            "size": {
+                "height": 0.12,
+                "length": 0.19,
+                "width": 0.063
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.18,
+                "length": 0.13,
+                "width": 0.066
+            },
+            "cargo_id": "668665M8",
+            "id": 41,
+            "mas": "66",
+            "position": {
+                "x": 0.525,
+                "y": 0.22,
+                "z": 0.986
+            },
+            "size": {
+                "height": 0.18,
+                "length": 0.13,
+                "width": 0.066
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.31,
+                "length": 0.146,
+                "width": 0.13
+            },
+            "cargo_id": "113887O5",
+            "id": 42,
+            "mas": "146",
+            "position": {
+                "x": 0.723,
+                "y": 0.495,
+                "z": 0.915
+            },
+            "size": {
+                "height": 0.31,
+                "length": 0.146,
+                "width": 0.13
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.19,
+                "length": 0.13,
+                "width": 0.074
+            },
+            "cargo_id": "321685W10",
+            "id": 43,
+            "mas": "74",
+            "position": {
+                "x": 0.545,
+                "y": 0.295,
+                "z": 0.627
+            },
+            "size": {
+                "height": 0.19,
+                "length": 0.13,
+                "width": 0.074
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.172,
+                "length": 0.14,
+                "width": 0.1
+            },
+            "cargo_id": "015540J8",
+            "id": 44,
+            "mas": "172",
+            "position": {
+                "x": 0.5,
+                "y": 0.396,
+                "z": 0.97
+            },
+            "size": {
+                "height": 0.172,
+                "length": 0.14,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.116,
+                "length": 0.19,
+                "width": 0.06
+            },
+            "cargo_id": "352279B2",
+            "id": 45,
+            "mas": "116",
+            "position": {
+                "x": 0.745,
+                "y": 0.258,
+                "z": 1.01
+            },
+            "size": {
+                "height": 0.116,
+                "length": 0.19,
+                "width": 0.06
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.21,
+                "length": 0.13,
+                "width": 0.15
+            },
+            "cargo_id": "37109107I5",
+            "id": 46,
+            "mas": "210",
+            "position": {
+                "x": 0.715,
+                "y": 0.475,
+                "z": 0.565
+            },
+            "size": {
+                "height": 0.21,
+                "length": 0.13,
+                "width": 0.15
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.2,
+                "length": 0.094,
+                "width": 0.28
+            },
+            "cargo_id": "711014I3",
+            "id": 47,
+            "mas": "94",
+            "position": {
+                "x": 0.047,
+                "y": 0.47,
+                "z": 1.11
+            },
+            "size": {
+                "height": 0.2,
+                "length": 0.094,
+                "width": 0.28
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.19,
+                "length": 0.12,
+                "width": 0.07
+            },
+            "cargo_id": "1010209I8",
+            "id": 48,
+            "mas": "120",
+            "position": {
+                "x": 0.33,
+                "y": 0.301,
+                "z": 0.988
+            },
+            "size": {
+                "height": 0.19,
+                "length": 0.12,
+                "width": 0.07
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.21,
+                "length": 0.09,
+                "width": 0.27
+            },
+            "cargo_id": "877440G2",
+            "id": 49,
+            "mas": "210",
+            "position": {
+                "x": 0.695,
+                "y": 0.505,
+                "z": 1.115
+            },
+            "size": {
+                "height": 0.21,
+                "length": 0.09,
+                "width": 0.27
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.23,
+                "length": 0.08,
+                "width": 0.16
+            },
+            "cargo_id": "0141084W5",
+            "id": 50,
+            "mas": "80",
+            "position": {
+                "x": 0.51,
+                "y": 0.505,
+                "z": 0.58
+            },
+            "size": {
+                "height": 0.23,
+                "length": 0.08,
+                "width": 0.16
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.23,
+                "length": 0.08,
+                "width": 0.16
+            },
+            "cargo_id": "450753L3",
+            "id": 51,
+            "mas": "80",
+            "position": {
+                "x": 0.59,
+                "y": 0.505,
+                "z": 0.58
+            },
+            "size": {
+                "height": 0.23,
+                "length": 0.08,
+                "width": 0.16
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.19,
+                "length": 0.05,
+                "width": 0.07
+            },
+            "cargo_id": "44101091K2",
+            "id": 52,
+            "mas": "50",
+            "position": {
+                "x": 0.817,
+                "y": 0.095,
+                "z": 0.225
+            },
+            "size": {
+                "height": 0.19,
+                "length": 0.05,
+                "width": 0.07
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.17,
+                "length": 0.09,
+                "width": 0.21
+            },
+            "cargo_id": "326849Q1",
+            "id": 53,
+            "mas": "170",
+            "position": {
+                "x": 0.531,
+                "y": 0.485,
+                "z": 1.145
+            },
+            "size": {
+                "height": 0.17,
+                "length": 0.09,
+                "width": 0.21
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.3,
+                "length": 0.23,
+                "width": 0.127
+            },
+            "cargo_id": "126206C6",
+            "id": 54,
+            "mas": "127",
+            "position": {
+                "x": 0.711,
+                "y": 0.57,
+                "z": 0.2115
+            },
+            "size": {
+                "height": 0.3,
+                "length": 0.23,
+                "width": 0.127
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.147,
+                "width": 0.12
+            },
+            "cargo_id": "1760810S0",
+            "id": 55,
+            "mas": "147",
+            "position": {
+                "x": 0.6785,
+                "y": 0.56,
+                "z": 0.36
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.147,
+                "width": 0.12
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.24,
+                "length": 0.07,
+                "width": 0.13
+            },
+            "cargo_id": "044020B7",
+            "id": 56,
+            "mas": "130",
+            "position": {
+                "x": 0.815,
+                "y": 0.49,
+                "z": 0.555
+            },
+            "size": {
+                "height": 0.24,
+                "length": 0.07,
+                "width": 0.13
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.3,
+                "length": 0.12,
+                "width": 0.22
+            },
+            "cargo_id": "359863O0",
+            "id": 57,
+            "mas": "120",
+            "position": {
+                "x": 0.33,
+                "y": 0.602,
+                "z": 1.063
+            },
+            "size": {
+                "height": 0.3,
+                "length": 0.12,
+                "width": 0.22
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.138,
+                "length": 0.17,
+                "width": 0.28
+            },
+            "cargo_id": "9298107V0",
+            "id": 58,
+            "mas": "138",
+            "position": {
+                "x": 0.325,
+                "y": 0.635,
+                "z": 0.81
+            },
+            "size": {
+                "height": 0.138,
+                "length": 0.17,
+                "width": 0.28
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.11,
+                "width": 0.145
+            },
+            "cargo_id": "827218S4",
+            "id": 59,
+            "mas": "145",
+            "position": {
+                "x": 0.795,
+                "y": 0.54,
+                "z": 1.0525
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.11,
+                "width": 0.145
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.262,
+                "length": 0.26,
+                "width": 0.26
+            },
+            "cargo_id": "1017492J6",
+            "id": 60,
+            "mas": "262",
+            "position": {
+                "x": 0.52,
+                "y": 0.701,
+                "z": 1.083
+            },
+            "size": {
+                "height": 0.262,
+                "length": 0.26,
+                "width": 0.26
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.39,
+                "length": 0.29,
+                "width": 0.162
+            },
+            "cargo_id": "8261100W1",
+            "id": 61,
+            "mas": "162",
+            "position": {
+                "x": 0.607,
+                "y": 0.815,
+                "z": 0.501
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.29,
+                "width": 0.162
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.29,
+                "length": 0.155,
+                "width": 0.2
+            },
+            "cargo_id": "638992X1",
+            "id": 62,
+            "mas": "155",
+            "position": {
+                "x": 0.1745,
+                "y": 0.721,
+                "z": 1.09
+            },
+            "size": {
+                "height": 0.29,
+                "length": 0.155,
+                "width": 0.2
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.39,
+                "length": 0.143,
+                "width": 0.27
+            },
+            "cargo_id": "817404R2",
+            "id": 63,
+            "mas": "143",
+            "position": {
+                "x": 0.5335,
+                "y": 0.825,
+                "z": 0.717
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.143,
+                "width": 0.27
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.35,
+                "length": 0.16,
+                "width": 0.26
+            },
+            "cargo_id": "10961038T4",
+            "id": 64,
+            "mas": "160",
+            "position": {
+                "x": 0.73,
+                "y": 0.855,
+                "z": 0.98
+            },
+            "size": {
+                "height": 0.35,
+                "length": 0.16,
+                "width": 0.26
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.241,
+                "length": 0.39,
+                "width": 0.3
+            },
+            "cargo_id": "363441A6",
+            "id": 65,
+            "mas": "241",
+            "position": {
+                "x": 0.447,
+                "y": 0.9525,
+                "z": 1.04
+            },
+            "size": {
+                "height": 0.241,
+                "length": 0.39,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.39,
+                "length": 0.207,
+                "width": 0.29
+            },
+            "cargo_id": "605005O3",
+            "id": 66,
+            "mas": "207",
+            "position": {
+                "x": 0.7455,
+                "y": 1.225,
+                "z": 1.035
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.207,
+                "width": 0.29
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.39,
+                "length": 0.29,
+                "width": 0.103
+            },
+            "cargo_id": "646468S3",
+            "id": 67,
+            "mas": "103",
+            "position": {
+                "x": 0.681,
+                "y": 0.895,
+                "z": 0.3265
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.29,
+                "width": 0.103
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.51,
+                "length": 0.158,
+                "width": 0.25
+            },
+            "cargo_id": "0515310C1",
+            "id": 68,
+            "mas": "158",
+            "position": {
+                "x": 0.684,
+                "y": 0.995,
+                "z": 0.707
+            },
+            "size": {
+                "height": 0.51,
+                "length": 0.158,
+                "width": 0.25
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.38,
+                "length": 0.26,
+                "width": 0.152
+            },
+            "cargo_id": "595940Z4",
+            "id": 69,
+            "mas": "152",
+            "position": {
+                "x": 0.666,
+                "y": 1.2,
+                "z": 0.454
+            },
+            "size": {
+                "height": 0.38,
+                "length": 0.26,
+                "width": 0.152
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.37,
+                "length": 0.164,
+                "width": 0.16
+            },
+            "cargo_id": "1898100U6",
+            "id": 70,
+            "mas": "164",
+            "position": {
+                "x": 0.318,
+                "y": 0.889,
+                "z": 0.77
+            },
+            "size": {
+                "height": 0.37,
+                "length": 0.164,
+                "width": 0.16
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.4,
+                "length": 0.15,
+                "width": 0.15
+            },
+            "cargo_id": "017320M0",
+            "id": 71,
+            "mas": "150",
+            "position": {
+                "x": 0.475,
+                "y": 1.22,
+                "z": 0.765
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.15,
+                "width": 0.15
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.155,
+                "length": 0.26,
+                "width": 0.4
+            },
+            "cargo_id": "6961054W7",
+            "id": 72,
+            "mas": "155",
+            "position": {
+                "x": 0.366,
+                "y": 1.1505,
+                "z": 1.05
+            },
+            "size": {
+                "height": 0.155,
+                "length": 0.26,
+                "width": 0.4
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.1,
+                "length": 0.12,
+                "width": 0.2
+            },
+            "cargo_id": "2510892H10",
+            "id": 73,
+            "mas": "100",
+            "position": {
+                "x": 0.556,
+                "y": 1.123,
+                "z": 0.95
+            },
+            "size": {
+                "height": 0.1,
+                "length": 0.12,
+                "width": 0.2
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.328,
+                "length": 0.39,
+                "width": 0.3
+            },
+            "cargo_id": "0710854V8",
+            "id": 74,
+            "mas": "328",
+            "position": {
+                "x": 0.355,
+                "y": 1.392,
+                "z": 0.99
+            },
+            "size": {
+                "height": 0.328,
+                "length": 0.39,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.37,
+                "length": 0.19,
+                "width": 0.15
+            },
+            "cargo_id": "5062108W6",
+            "id": 75,
+            "mas": "190",
+            "position": {
+                "x": 0.631,
+                "y": 1.435,
+                "z": 0.605
+            },
+            "size": {
+                "height": 0.37,
+                "length": 0.19,
+                "width": 0.15
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.22,
+                "length": 0.23,
+                "width": 0.35
+            },
+            "cargo_id": "218366U4",
+            "id": 76,
+            "mas": "220",
+            "position": {
+                "x": 0.665,
+                "y": 1.53,
+                "z": 1.015
+            },
+            "size": {
+                "height": 0.22,
+                "length": 0.23,
+                "width": 0.35
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.4,
+                "length": 0.25,
+                "width": 0.155
+            },
+            "cargo_id": "10410048X3",
+            "id": 77,
+            "mas": "155",
+            "position": {
+                "x": 0.601,
+                "y": 1.62,
+                "z": 0.7575
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.25,
+                "width": 0.155
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.174,
+                "length": 0.3,
+                "width": 0.39
+            },
+            "cargo_id": "885410H5",
+            "id": 78,
+            "mas": "174",
+            "position": {
+                "x": 0.626,
+                "y": 1.727,
+                "z": 1.03
+            },
+            "size": {
+                "height": 0.174,
+                "length": 0.3,
+                "width": 0.39
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.39,
+                "length": 0.29,
+                "width": 0.105
+            },
+            "cargo_id": "10103252D1",
+            "id": 79,
+            "mas": "105",
+            "position": {
+                "x": 0.305,
+                "y": 1.423,
+                "z": 1.1925
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.29,
+                "width": 0.105
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.132,
+                "length": 0.18,
+                "width": 0.36
+            },
+            "cargo_id": "2722010R8",
+            "id": 81,
+            "mas": "132",
+            "position": {
+                "x": 0.566,
+                "y": 1.88,
+                "z": 1.015
+            },
+            "size": {
+                "height": 0.132,
+                "length": 0.18,
+                "width": 0.36
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.141,
+                "length": 0.17,
+                "width": 0.37
+            },
+            "cargo_id": "772541I3",
+            "id": 82,
+            "mas": "141",
+            "position": {
+                "x": 0.741,
+                "y": 1.8845,
+                "z": 1.02
+            },
+            "size": {
+                "height": 0.141,
+                "length": 0.17,
+                "width": 0.37
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.44,
+                "length": 0.114,
+                "width": 0.29
+            },
+            "cargo_id": "7910226U2",
+            "id": 88,
+            "mas": "114",
+            "position": {
+                "x": 0.783,
+                "y": 1.47,
+                "z": 0.675
+            },
+            "size": {
+                "height": 0.44,
+                "length": 0.114,
+                "width": 0.29
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.099,
+                "length": 0.16,
+                "width": 0.23
+            },
+            "cargo_id": "6706100M2",
+            "id": 92,
+            "mas": "99",
+            "position": {
+                "x": 0.736,
+                "y": 2.0045,
+                "z": 0.95
+            },
+            "size": {
+                "height": 0.099,
+                "length": 0.16,
+                "width": 0.23
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.41,
+                "length": 0.112,
+                "width": 0.1
+            },
+            "cargo_id": "826844L0",
+            "id": 96,
+            "mas": "112",
+            "position": {
+                "x": 0.782,
+                "y": 1.895,
+                "z": 0.73
+            },
+            "size": {
+                "height": 0.41,
+                "length": 0.112,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.14,
+                "length": 0.214,
+                "width": 0.14
+            },
+            "cargo_id": "331588G1",
+            "id": 98,
+            "mas": "214",
+            "position": {
+                "x": 0.709,
+                "y": 2.025,
+                "z": 1.135
+            },
+            "size": {
+                "height": 0.14,
+                "length": 0.214,
+                "width": 0.14
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.14,
+                "length": 0.11,
+                "width": 0.04
+            },
+            "cargo_id": "068733I3",
+            "id": 154,
+            "mas": "40",
+            "position": {
+                "x": 0.781,
+                "y": 1.76,
+                "z": 0.8
+            },
+            "size": {
+                "height": 0.14,
+                "length": 0.11,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "cargo_id": "242277R0",
+            "id": 156,
+            "mas": "90",
+            "position": {
+                "x": 0.521,
+                "y": 1.939,
+                "z": 1.215
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "cargo_id": "3657108O3",
+            "id": 157,
+            "mas": "250",
+            "position": {
+                "x": 0.771,
+                "y": 1.955,
+                "z": 0.805
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.26,
+                "length": 0.05,
+                "width": 0.06
+            },
+            "cargo_id": "079693Z4",
+            "id": 158,
+            "mas": "50",
+            "position": {
+                "x": 0.42,
+                "y": 0.329,
+                "z": 0.47
+            },
+            "size": {
+                "height": 0.26,
+                "length": 0.05,
+                "width": 0.06
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "cargo_id": "028777L5",
+            "id": 161,
+            "mas": "90",
+            "position": {
+                "x": 0.701,
+                "y": 1.939,
+                "z": 1.225
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "cargo_id": "5228110W3",
+            "id": 166,
+            "mas": "90",
+            "position": {
+                "x": 0.791,
+                "y": 1.939,
+                "z": 1.225
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "cargo_id": "227195F7",
+            "id": 167,
+            "mas": "280",
+            "position": {
+                "x": 0.225,
+                "y": 0.14,
+                "z": 0.36
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.26,
+                "length": 0.06,
+                "width": 0.05
+            },
+            "cargo_id": "0102838S9",
+            "id": 170,
+            "mas": "50",
+            "position": {
+                "x": 0.127,
+                "y": 0.37,
+                "z": 1.225
+            },
+            "size": {
+                "height": 0.26,
+                "length": 0.06,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.04,
+                "length": 0.1,
+                "width": 0.2
+            },
+            "cargo_id": "245175E4",
+            "id": 172,
+            "mas": "100",
+            "position": {
+                "x": 0.776,
+                "y": 2.074,
+                "z": 0.93
+            },
+            "size": {
+                "height": 0.04,
+                "length": 0.1,
+                "width": 0.2
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.1,
+                "length": 0.03,
+                "width": 0.28
+            },
+            "cargo_id": "2225810P7",
+            "id": 173,
+            "mas": "100",
+            "position": {
+                "x": 0.225,
+                "y": 0.05,
+                "z": 0.55
+            },
+            "size": {
+                "height": 0.1,
+                "length": 0.03,
+                "width": 0.28
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "cargo_id": "2225810P7",
+            "id": 174,
+            "mas": "100",
+            "position": {
+                "x": 0.835,
+                "y": 0.14,
+                "z": 0.05
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "cargo_id": "51010105C10",
+            "id": 178,
+            "mas": "280",
+            "position": {
+                "x": 0.225,
+                "y": 0.24,
+                "z": 0.46
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "cargo_id": "0851010E9",
+            "id": 186,
+            "mas": "280",
+            "position": {
+                "x": 0.225,
+                "y": 0.24,
+                "z": 0.56
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.09
+            },
+            "cargo_id": "722380S4",
+            "id": 188,
+            "mas": "90",
+            "position": {
+                "x": 0.225,
+                "y": 0.42,
+                "z": 0.355
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.09
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "cargo_id": "7674910P4",
+            "id": 189,
+            "mas": "90",
+            "position": {
+                "x": 0.255,
+                "y": 0.639,
+                "z": 0.425
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.2,
+                "length": 0.11,
+                "width": 0.04
+            },
+            "cargo_id": "8812104S3",
+            "id": 190,
+            "mas": "40",
+            "position": {
+                "x": 0.265,
+                "y": 0.599,
+                "z": 0.47
+            },
+            "size": {
+                "height": 0.2,
+                "length": 0.11,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "cargo_id": "594649G0",
+            "id": 191,
+            "mas": "90",
+            "position": {
+                "x": 0.285,
+                "y": 0.624,
+                "z": 0.33
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.26,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "cargo_id": "060421X0",
+            "id": 192,
+            "mas": "50",
+            "position": {
+                "x": 0.285,
+                "y": 0.629,
+                "z": 0.375
+            },
+            "size": {
+                "height": 0.26,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "cargo_id": "171805X3",
+            "id": 193,
+            "mas": "90",
+            "position": {
+                "x": 0.345,
+                "y": 0.624,
+                "z": 0.42
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "cargo_id": "0910392E7",
+            "id": 195,
+            "mas": "280",
+            "position": {
+                "x": 0.831,
+                "y": 0.42,
+                "z": 0.05
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.03,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.1,
+                "length": 0.26,
+                "width": 0.04
+            },
+            "cargo_id": "170146P5",
+            "id": 196,
+            "mas": "100",
+            "position": {
+                "x": 0.716,
+                "y": 0.533,
+                "z": 0.12
+            },
+            "size": {
+                "height": 0.1,
+                "length": 0.26,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.25,
+                "length": 0.085,
+                "width": 0.04
+            },
+            "cargo_id": "007814F3",
+            "id": 197,
+            "mas": "85",
+            "position": {
+                "x": 0.3625,
+                "y": 0.624,
+                "z": 0.47
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.085,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        },
+        {
+            "calculated_size": {
+                "height": 0.25,
+                "length": 0.04,
+                "width": 0.085
+            },
+            "cargo_id": "007814F3",
+            "id": 198,
+            "mas": "85",
+            "position": {
+                "x": 0.35,
+                "y": 0.624,
+                "z": 0.3525
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.04,
+                "width": 0.085
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True",
+            "type": "box"
+        }
+    ],
+    "unpacked": [
+        {
+            "group_id": 1,
+            "id": 80,
+            "mass": "316",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.316,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 83,
+            "mass": "154",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.154,
+                "width": 0.2
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 84,
+            "mass": "177",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.36,
+                "length": 0.177,
+                "width": 0.18
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 85,
+            "mass": "176",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.36,
+                "length": 0.176,
+                "width": 0.17
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 86,
+            "mass": "191",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.54,
+                "length": 0.191,
+                "width": 0.213
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 87,
+            "mass": "170",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.35,
+                "length": 0.17,
+                "width": 0.16
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 89,
+            "mass": "164",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.31,
+                "length": 0.164,
+                "width": 0.23
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 90,
+            "mass": "168",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.31,
+                "length": 0.168,
+                "width": 0.22
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 91,
+            "mass": "300",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.23,
+                "length": 0.3,
+                "width": 0.59
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 93,
+            "mass": "204",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.204,
+                "width": 0.31
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 94,
+            "mass": "272",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.272,
+                "width": 0.27
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 95,
+            "mass": "155",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.155,
+                "width": 0.24
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 97,
+            "mass": "234",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.49,
+                "length": 0.234,
+                "width": 0.27
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 99,
+            "mass": "214",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.15,
+                "length": 0.214,
+                "width": 0.13
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 100,
+            "mass": "160",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.27,
+                "length": 0.16,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 101,
+            "mass": "183",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.15,
+                "length": 0.183,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 102,
+            "mass": "220",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.57,
+                "length": 0.22,
+                "width": 0.22
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 103,
+            "mass": "162",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.162,
+                "width": 0.24
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 104,
+            "mass": "152",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.27,
+                "length": 0.152,
+                "width": 0.15
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 105,
+            "mass": "240",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.19,
+                "length": 0.24,
+                "width": 0.33
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 106,
+            "mass": "195",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.195,
+                "width": 0.21
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 107,
+            "mass": "220",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.22,
+                "width": 0.19
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 108,
+            "mass": "204",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.204,
+                "width": 0.12
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 109,
+            "mass": "193",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.37,
+                "length": 0.193,
+                "width": 0.13
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 110,
+            "mass": "185",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.185,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 111,
+            "mass": "179",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.27,
+                "length": 0.179,
+                "width": 0.19
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 112,
+            "mass": "198",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.198,
+                "width": 0.21
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 113,
+            "mass": "278",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.43,
+                "length": 0.278,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 114,
+            "mass": "220",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.41,
+                "length": 0.22,
+                "width": 0.25
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 115,
+            "mass": "220",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.41,
+                "length": 0.22,
+                "width": 0.25
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 116,
+            "mass": "165",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.165,
+                "width": 0.23
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 117,
+            "mass": "161",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.31,
+                "length": 0.161,
+                "width": 0.11
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 118,
+            "mass": "161",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.31,
+                "length": 0.161,
+                "width": 0.11
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 119,
+            "mass": "173",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.173,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 120,
+            "mass": "131",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.29,
+                "length": 0.131,
+                "width": 0.21
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 121,
+            "mass": "235",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.38,
+                "length": 0.235,
+                "width": 0.29
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 122,
+            "mass": "208",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.208,
+                "width": 0.31
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 123,
+            "mass": "168",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.38,
+                "length": 0.168,
+                "width": 0.11
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 124,
+            "mass": "310",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.58,
+                "length": 0.31,
+                "width": 0.39
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 125,
+            "mass": "230",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.38,
+                "length": 0.23,
+                "width": 0.37
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 126,
+            "mass": "160",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.3,
+                "length": 0.16,
+                "width": 0.11
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 127,
+            "mass": "140",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.09,
+                "length": 0.14,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 128,
+            "mass": "142",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.278,
+                "length": 0.142,
+                "width": 0.118
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 129,
+            "mass": "307",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.35,
+                "length": 0.307,
+                "width": 0.17
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 130,
+            "mass": "305",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.35,
+                "length": 0.305,
+                "width": 0.17
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 131,
+            "mass": "158",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.4,
+                "length": 0.158,
+                "width": 0.24
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 132,
+            "mass": "136",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.136,
+                "width": 0.39
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 133,
+            "mass": "97",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.29,
+                "length": 0.097,
+                "width": 0.18
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 134,
+            "mass": "97",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.29,
+                "length": 0.097,
+                "width": 0.18
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 135,
+            "mass": "97",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.29,
+                "length": 0.097,
+                "width": 0.18
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 136,
+            "mass": "97",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.29,
+                "length": 0.097,
+                "width": 0.18
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 137,
+            "mass": "230",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.23,
+                "width": 0.39
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 138,
+            "mass": "230",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.23,
+                "width": 0.39
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 139,
+            "mass": "230",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.23,
+                "width": 0.39
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 140,
+            "mass": "80",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.18,
+                "length": 0.08,
+                "width": 0.17
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 141,
+            "mass": "80",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.17,
+                "length": 0.08,
+                "width": 0.17
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 142,
+            "mass": "130",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.17,
+                "length": 0.13,
+                "width": 0.14
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 143,
+            "mass": "130",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.17,
+                "length": 0.13,
+                "width": 0.13
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 144,
+            "mass": "190",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.58,
+                "length": 0.19,
+                "width": 0.37
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 145,
+            "mass": "200",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.59,
+                "length": 0.2,
+                "width": 0.37
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 146,
+            "mass": "60",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.16,
+                "length": 0.06,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 147,
+            "mass": "60",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.17,
+                "length": 0.06,
+                "width": 0.09
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 148,
+            "mass": "60",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.17,
+                "length": 0.06,
+                "width": 0.09
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 149,
+            "mass": "180",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.38,
+                "length": 0.18,
+                "width": 0.23
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 150,
+            "mass": "240",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.24,
+                "width": 0.09
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 151,
+            "mass": "270",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.39,
+                "length": 0.27,
+                "width": 0.17
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 152,
+            "mass": "180",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.43,
+                "length": 0.18,
+                "width": 0.3
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 153,
+            "mass": "80",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.18,
+                "length": 0.08,
+                "width": 0.15
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 155,
+            "mass": "160",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.18,
+                "length": 0.16,
+                "width": 0.18
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 159,
+            "mass": "143",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.62,
+                "length": 0.143,
+                "width": 0.39
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 160,
+            "mass": "100",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.26,
+                "length": 0.1,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 162,
+            "mass": "60",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.2,
+                "length": 0.06,
+                "width": 0.11
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 163,
+            "mass": "90",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 164,
+            "mass": "50",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.16,
+                "length": 0.05,
+                "width": 0.08
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 165,
+            "mass": "260",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.35,
+                "length": 0.26,
+                "width": 0.4
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 168,
+            "mass": "530",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.45,
+                "length": 0.53,
+                "width": 0.22
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 169,
+            "mass": "90",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 171,
+            "mass": "50",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.05,
+                "width": 0.09
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 175,
+            "mass": "280",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.09,
+                "length": 0.28,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 176,
+            "mass": "90",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 177,
+            "mass": "200",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.2,
+                "width": 0.1
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 179,
+            "mass": "300",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.54,
+                "length": 0.3,
+                "width": 0.28
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 180,
+            "mass": "90",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 181,
+            "mass": "90",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.28,
+                "length": 0.09,
+                "width": 0.05
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 182,
+            "mass": "440",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.5,
+                "length": 0.44,
+                "width": 0.23
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 183,
+            "mass": "90",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 184,
+            "mass": "90",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.25,
+                "length": 0.09,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 185,
+            "mass": "100",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.26,
+                "length": 0.1,
+                "width": 0.04
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 187,
+            "mass": "500",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.44,
+                "length": 0.5,
+                "width": 0.21
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        },
+        {
+            "group_id": 1,
+            "id": 194,
+            "mass": "260",
+            "position": {
+                "x": -5,
+                "y": 0.5,
+                "z": -5
+            },
+            "size": {
+                "height": 0.35,
+                "length": 0.26,
+                "width": 0.4
+            },
+            "sort": 1,
+            "stacking": "True",
+            "turnover": "True"
+        }
+    ]
+}
