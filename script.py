@@ -2,6 +2,9 @@ import os
 import sys
 import csv
 import json
+from json2xml import json2xml
+from json2xml.utils import readfromjson
+from lxml import etree
 
 def check_cargo_position(cargo, cargoSpace):
     min_x = 0
@@ -52,16 +55,60 @@ def culc_q(data):
         return [False, "некорректный формат данных", 0, 0, 0]
 
 
+def json_to_xml():
+    for folder in team:
+        if os.path.isdir(os.path.join(path, folder)):
+            files_path = os.path.join(path, folder)
+            files = os.listdir(files_path)
+            for file in files:
+                print(file)
+                with open(f'{path}/{folder}/{file.split(".")[0]}.xml', 'w') as f:
+                    file_path = os.path.join(files_path, file)
+                    if file_path.split('.')[1] == 'json':
+                        data = readfromjson(f"{file_path}")
+                    else:
+                        continue
+                    f.write(json2xml.Json2xml(data).to_xml())
+                    validate_xml(f'{path}/{folder}/{file.split(".")[0]}.xml')
+
+def validate_xml(file):
+    xsd_file_name = r'schema1.xsd'
+    schema_root = etree.parse(xsd_file_name)
+    schema = etree.XMLSchema(schema_root)
+
+    # Загрузка xml
+
+    xml_filename = file
+    xml = etree.parse(xml_filename)
+
+    # Проверка
+
+    if not schema.validate(xml):
+        print(schema.error_log)
+
+def check_results():
+    for folder in team:
+        if os.path.isdir(os.path.join(path, folder)):
+            with open(f'{path}/{folder}.csv', 'w', newline='') as f:
+                writer = csv.writer(f, quoting=csv.QUOTE_ALL, delimiter=',')
+                files_path = os.path.join(path, folder)
+                files = os.listdir(files_path)
+                for file in files:
+                    file_path = os.path.join(files_path, file)
+                    if file_path.split('.')[1] == 'json':
+                        data = json.load(open(f"{file_path}"))
+                    else:
+                        continue
+                    # is_valid, mess, density, volume, cargo_max_y = culc_q(data)
+                    writer.writerow(culc_q(data))
+
+
 path = sys.argv[1]
 team = os.listdir(path)
-
-for folder in team:
-    with open(f'{path}/{folder}.csv', 'w', newline='') as f:
-        writer = csv.writer(f, quoting=csv.QUOTE_ALL, delimiter=',')
-        files_path = os.path.join(path, folder)
-        files = os.listdir(files_path)
-        for file in files:
-            file_path = os.path.join(files_path, file)
-            data = json.load(open(f"{file_path}"))
-            #is_valid, mess, density, volume, cargo_max_y = culc_q(data)
-            writer.writerow(culc_q(data))
+mode = sys.argv[2]
+if mode == '-v':
+    json_to_xml()
+elif mode == '-c':
+    check_results()
+else:
+    print('Не верно указан режим')
