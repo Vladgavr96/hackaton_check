@@ -6,6 +6,7 @@ from json2xml import json2xml
 from json2xml.utils import readfromjson
 from lxml import etree
 
+
 def check_cargo_position(cargo, cargoSpace):
     min_x = 0
     min_y = 0
@@ -15,15 +16,15 @@ def check_cargo_position(cargo, cargoSpace):
     pos_y = cargo['position']['y']
     pos_z = cargo['position']['z']
 
-
     max_x = cargoSpace['loading_size']['length'] + 0.01
     max_y = cargoSpace['loading_size']['height'] + 0.01
     max_z = cargoSpace['loading_size']['width'] + 0.01
 
-    size_x = cargo['size']['length'] /2
-    size_y = cargo['size']['height']/2
-    size_z = cargo['size']['width']/2
-    if(min_x + size_x <= pos_x <= max_x - size_x ) and (min_y + size_y <= pos_y <= max_y - size_y )and (min_z + size_z <= pos_z <= max_z - size_z ):
+    size_x = cargo['size']['length'] / 2
+    size_y = cargo['size']['height'] / 2
+    size_z = cargo['size']['width'] / 2
+    if (min_x + size_x <= pos_x <= max_x - size_x) and (min_y + size_y <= pos_y <= max_y - size_y) and (
+            min_z + size_z <= pos_z <= max_z - size_z):
         return True
     return False
 
@@ -41,7 +42,7 @@ def culc_q(data):
         for cargo in data['cargos']:
             if check_cargo_position(cargo, cargoSpace):
                 volume += cargo['size']['length'] * cargo['size']['height'] * cargo['size']['width']
-                cargo_max = cargo['size']['height']/2 + cargo['position']['y']
+                cargo_max = cargo['size']['height'] / 2 + cargo['position']['y']
                 if (cargo_max > cargo_max_y):
                     cargo_max_y = cargo_max
             else:
@@ -49,13 +50,15 @@ def culc_q(data):
                 mess = "Грузы вне грузового пространства. "
         density = volume / (max_x * max_z * cargo_max_y)
         if (density > 1):
-            return [False,mess+"Грузы пересекаются", density, volume, cargo_max_y]
-        return [res_v,mess, density, volume, cargo_max_y]
+            return [False, mess + "Грузы пересекаются", density, volume, cargo_max_y]
+        return [res_v, mess, density, volume, cargo_max_y]
     except:
         return [False, "некорректный формат данных", 0, 0, 0]
 
 
-def json_to_xml():
+def json_to_xml(path):
+    #path = input('Ввите имя папки, в которой нужно сформировать xml-документы ')
+    team = os.listdir(path)
     for folder in team:
         if os.path.isdir(os.path.join(path, folder)):
             files_path = os.path.join(path, folder)
@@ -71,8 +74,9 @@ def json_to_xml():
                     f.write(json2xml.Json2xml(data).to_xml())
                     validate_xml(f'{path}/{folder}/{file.split(".")[0]}.xml')
 
+
 def validate_xml(file):
-    xsd_file_name = r'schema1.xsd'
+    xsd_file_name = 'schema.xsd'
     schema_root = etree.parse(xsd_file_name)
     schema = etree.XMLSchema(schema_root)
 
@@ -86,7 +90,10 @@ def validate_xml(file):
     if not schema.validate(xml):
         print(schema.error_log)
 
-def check_results():
+
+def check_results(path):
+    #path = input('Ввите имя папки, которую нужно проверить ')
+    team = os.listdir(path)
     for folder in team:
         if os.path.isdir(os.path.join(path, folder)):
             with open(f'{path}/{folder}.csv', 'w', newline='') as f:
@@ -103,12 +110,17 @@ def check_results():
                     writer.writerow(culc_q(data))
 
 
-path = sys.argv[1]
-team = os.listdir(path)
-mode = sys.argv[2]
-if mode == '-v':
-    json_to_xml()
-elif mode == '-c':
-    check_results()
-else:
-    print('Не верно указан режим')
+from utils import *
+
+try:
+    with open(input('Введите имя файла со списком проверок ')) as template:
+        for line in template:
+            if len(line.split())>1:
+                cmd, arg = line.split()[0], line.split()[1]
+                eval(f'{cmd}')(arg)
+            else:
+                cmd = line.strip()
+                eval(f'{cmd}')()
+except KeyError:
+    print("Invalid")
+

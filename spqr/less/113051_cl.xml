@@ -1,0 +1,952 @@
+<?xml version="1.0" ?>
+<all>
+	<cargoSpace type="dict">
+		<loading_size type="dict">
+			<height type="float">2.1</height>
+			<length type="float">1.25</length>
+			<width type="float">0.85</width>
+		</loading_size>
+		<item type="float">0.625</item>
+		<item type="float">1.05</item>
+		<item type="float">0.425</item>
+		<type type="str">pallet</type>
+	</cargoSpace>
+	<cargos type="list">
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">0</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">0.175</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">1</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">0.525</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">2</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">0.875</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">3</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">1.225</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">4</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">1.575</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">5</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">1.925</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">6</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">0.175</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">7</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">0.525</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">8</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">0.875</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">9</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">1.225</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">10</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.27</x>
+				<y type="float">1.575</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.215</height>
+				<width type="float">0.41</width>
+				<length type="float">0.51</length>
+			</calculated_size>
+			<cargo_id type="str">927388Y2</cargo_id>
+			<id type="int">11</id>
+			<mass type="int">10706</mass>
+			<position type="dict">
+				<x type="float">0.255</x>
+				<y type="float">1.8575</y>
+				<z type="float">0.625</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.215</height>
+				<width type="float">0.41</width>
+				<length type="float">0.51</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.126</height>
+				<width type="float">0.3</width>
+				<length type="float">0.4</length>
+			</calculated_size>
+			<cargo_id type="str">462136I7</cargo_id>
+			<id type="int">12</id>
+			<mass type="int">2774</mass>
+			<position type="dict">
+				<x type="float">0.2</x>
+				<y type="float">2.028</y>
+				<z type="float">0.57</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.126</height>
+				<width type="float">0.3</width>
+				<length type="float">0.4</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.1</height>
+				<width type="float">0.11</width>
+				<length type="float">0.33</length>
+			</calculated_size>
+			<cargo_id type="str">10521071S3</cargo_id>
+			<id type="int">13</id>
+			<mass type="int">652</mass>
+			<position type="dict">
+				<x type="float">0.165</x>
+				<y type="float">2.015</y>
+				<z type="float">0.775</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.1</height>
+				<width type="float">0.11</width>
+				<length type="float">0.33</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.07</height>
+				<width type="float">0.1</width>
+				<length type="float">0.15</length>
+			</calculated_size>
+			<cargo_id type="str">583853M10</cargo_id>
+			<id type="int">14</id>
+			<mass type="int">308</mass>
+			<position type="dict">
+				<x type="float">0.405</x>
+				<y type="float">2.0</y>
+				<z type="float">0.77</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.07</height>
+				<width type="float">0.1</width>
+				<length type="float">0.15</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.04</height>
+				<width type="float">0.1</width>
+				<length type="float">0.13</length>
+			</calculated_size>
+			<cargo_id type="str">8101473M1</cargo_id>
+			<id type="int">15</id>
+			<mass type="int">374</mass>
+			<position type="dict">
+				<x type="float">0.395</x>
+				<y type="float">2.055</y>
+				<z type="float">0.77</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.04</height>
+				<width type="float">0.1</width>
+				<length type="float">0.13</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">16</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">0.175</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">17</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">0.525</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">18</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">0.875</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">19</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">1.225</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">20</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">1.575</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">21</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">1.925</y>
+				<z type="float">0.21</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">22</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">0.175</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">23</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">0.525</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">24</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">0.875</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">25</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">1.225</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</calculated_size>
+			<cargo_id type="str">381721P2</cargo_id>
+			<id type="int">26</id>
+			<mass type="int">329</mass>
+			<position type="dict">
+				<x type="float">0.81</x>
+				<y type="float">1.575</y>
+				<z type="float">0.63</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.35</height>
+				<width type="float">0.42</width>
+				<length type="float">0.54</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.215</height>
+				<width type="float">0.41</width>
+				<length type="float">0.51</length>
+			</calculated_size>
+			<cargo_id type="str">927388Y2</cargo_id>
+			<id type="int">27</id>
+			<mass type="int">10706</mass>
+			<position type="dict">
+				<x type="float">0.795</x>
+				<y type="float">1.8575</y>
+				<z type="float">0.625</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.215</height>
+				<width type="float">0.41</width>
+				<length type="float">0.51</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.126</height>
+				<width type="float">0.3</width>
+				<length type="float">0.4</length>
+			</calculated_size>
+			<cargo_id type="str">462136I7</cargo_id>
+			<id type="int">28</id>
+			<mass type="int">2774</mass>
+			<position type="dict">
+				<x type="float">0.74</x>
+				<y type="float">2.028</y>
+				<z type="float">0.57</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.126</height>
+				<width type="float">0.3</width>
+				<length type="float">0.4</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.1</height>
+				<width type="float">0.11</width>
+				<length type="float">0.33</length>
+			</calculated_size>
+			<cargo_id type="str">10521071S3</cargo_id>
+			<id type="int">29</id>
+			<mass type="int">652</mass>
+			<position type="dict">
+				<x type="float">0.705</x>
+				<y type="float">2.015</y>
+				<z type="float">0.775</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.1</height>
+				<width type="float">0.11</width>
+				<length type="float">0.33</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.07</height>
+				<width type="float">0.1</width>
+				<length type="float">0.15</length>
+			</calculated_size>
+			<cargo_id type="str">583853M10</cargo_id>
+			<id type="int">30</id>
+			<mass type="int">308</mass>
+			<position type="dict">
+				<x type="float">0.945</x>
+				<y type="float">2.0</y>
+				<z type="float">0.77</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.07</height>
+				<width type="float">0.1</width>
+				<length type="float">0.15</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.04</height>
+				<width type="float">0.1</width>
+				<length type="float">0.13</length>
+			</calculated_size>
+			<cargo_id type="str">8101473M1</cargo_id>
+			<id type="int">31</id>
+			<mass type="int">374</mass>
+			<position type="dict">
+				<x type="float">0.935</x>
+				<y type="float">2.055</y>
+				<z type="float">0.77</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.04</height>
+				<width type="float">0.1</width>
+				<length type="float">0.13</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.08</height>
+				<width type="float">0.15</width>
+				<length type="float">0.17</length>
+			</calculated_size>
+			<cargo_id type="str">284082O4</cargo_id>
+			<id type="int">32</id>
+			<mass type="int">1518</mass>
+			<position type="dict">
+				<x type="float">1.165</x>
+				<y type="float">0.04</y>
+				<z type="float">0.075</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.08</height>
+				<width type="float">0.15</width>
+				<length type="float">0.17</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.11</height>
+				<width type="float">0.14</width>
+				<length type="float">0.16</length>
+			</calculated_size>
+			<cargo_id type="str">017956L1</cargo_id>
+			<id type="int">33</id>
+			<mass type="int">1687</mass>
+			<position type="dict">
+				<x type="float">1.16</x>
+				<y type="float">0.135</y>
+				<z type="float">0.07</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.11</height>
+				<width type="float">0.14</width>
+				<length type="float">0.16</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.04</height>
+				<width type="float">0.13</width>
+				<length type="float">0.15</length>
+			</calculated_size>
+			<cargo_id type="str">10810666O9</cargo_id>
+			<id type="int">34</id>
+			<mass type="int">468</mass>
+			<position type="dict">
+				<x type="float">1.155</x>
+				<y type="float">0.21</y>
+				<z type="float">0.065</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.04</height>
+				<width type="float">0.13</width>
+				<length type="float">0.15</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.08</height>
+				<width type="float">0.12</width>
+				<length type="float">0.13</length>
+			</calculated_size>
+			<cargo_id type="str">402431S4</cargo_id>
+			<id type="int">35</id>
+			<mass type="int">760</mass>
+			<position type="dict">
+				<x type="float">1.145</x>
+				<y type="float">0.27</y>
+				<z type="float">0.06</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.08</height>
+				<width type="float">0.12</width>
+				<length type="float">0.13</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.07</height>
+				<width type="float">0.1</width>
+				<length type="float">0.15</length>
+			</calculated_size>
+			<cargo_id type="str">583853M10</cargo_id>
+			<id type="int">36</id>
+			<mass type="int">308</mass>
+			<position type="dict">
+				<x type="float">1.155</x>
+				<y type="float">0.035</y>
+				<z type="float">0.2</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.07</height>
+				<width type="float">0.1</width>
+				<length type="float">0.15</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.04</height>
+				<width type="float">0.1</width>
+				<length type="float">0.13</length>
+			</calculated_size>
+			<cargo_id type="str">8101473M1</cargo_id>
+			<id type="int">37</id>
+			<mass type="int">374</mass>
+			<position type="dict">
+				<x type="float">1.145</x>
+				<y type="float">0.33</y>
+				<z type="float">0.05</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.04</height>
+				<width type="float">0.1</width>
+				<length type="float">0.13</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+		<item type="dict">
+			<calculated_size type="dict">
+				<height type="float">0.06</height>
+				<width type="float">0.09</width>
+				<length type="float">0.14</length>
+			</calculated_size>
+			<cargo_id type="str">186990W10</cargo_id>
+			<id type="int">38</id>
+			<mass type="int">312</mass>
+			<position type="dict">
+				<x type="float">1.15</x>
+				<y type="float">0.1</y>
+				<z type="float">0.195</z>
+			</position>
+			<size type="dict">
+				<height type="float">0.06</height>
+				<width type="float">0.09</width>
+				<length type="float">0.14</length>
+			</size>
+			<sort type="int">1</sort>
+			<stacking type="bool">true</stacking>
+			<turnover type="bool">true</turnover>
+			<type type="str">box</type>
+		</item>
+	</cargos>
+</all>
